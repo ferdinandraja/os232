@@ -18,3 +18,8 @@ ZCZC W04 60 L09 Weekly Assignments
 ZCZC W04 25 L01 SCELE/Discord related
 ZCZC WO4 45 L88 Workout/Sport/Exercise/ETC.
 ZCZC W04 20 L85 Baby Sit and/or Oma/Opa Sit
+ZCZC WO5 45 L88 Workout/Sport/Exercise/ETC.
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W05 10 L41 TXT/mylog.txt related.
+ZCZC W05 10 L03 Github related
+ZCZC W05 20 L15 Assignment #05
