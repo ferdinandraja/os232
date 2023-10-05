@@ -11,3 +11,5 @@ permalink: LINKS/
 - [Website Article](https://itsfoss.com/linux-better-than-windows/) --- Reasons why linux is better than windows.
 - [Youtube Video](https://www.youtube.com/watch?v=qFTIc5frqw8&list=PLU_Er81tl-Vka_GPCCakU6NLuyVh5QICp) --- Linux history
 - [Website Article](https://unix.stackexchange.com/questions/104714/what-is-the-difference-between-unix-linux-bsd-and-gnu) --- Fundamental difference between UNIX,LINUX,GNU, and BSD
+- [Youtube Video](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) --- Offers a great understanding about basic C programming
+- [Website](https://chat.openai.com) --- Help me about understanding most of the topics.
