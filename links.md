@@ -16,3 +16,5 @@ permalink: LINKS/
 - [Website](https://github.com/RehanSaeed/Bash-Cheat-Sheet) --- Help me to understand Bash, basically a cheatsheet for bash
 - [Website](https://explainshell.com/) --- A website thet provides understanding about shell commands
 - [Website](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) --- Guide about pointers in C
+- [Website](www.scele.cs.ui.ac.id) --- To know pop quiz assignment
+- [Website](google.com) --- To search many things related to os
