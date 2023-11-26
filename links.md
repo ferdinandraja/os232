@@ -18,3 +18,5 @@ permalink: LINKS/
 - [Website](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) --- Guide about pointers in C
 - [Website](www.scele.cs.ui.ac.id) --- To know pop quiz assignment
 - [Website](google.com) --- To search many things related to os
+- [Website](https://www.linuxfromscratch.org/lfs/view/12.0/) --- Book about building Linux from scratch
+- [Youtube Video](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315) --- Playlist video about building linux from scratch
