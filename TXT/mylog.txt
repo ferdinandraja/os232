@@ -37,3 +37,6 @@ ZCZC WO8 15 L88 Go to gym and jogging
 ZCZC WO8 30 L03 GitHub and git related, including commit, push, pull
 ZCZC WO8 10 L64 Helping a friend (OS related problem)
 ZCZC W08 30 L32 YouTube: watching OS related topics, etc.
+ZCZC WO9 60 L88 Go to gym and jogging
+ZCZC WO9 150 L19 Assignment #09
+ZCZC W09 30 L32 YouTube: watching OS related topics, etc.
